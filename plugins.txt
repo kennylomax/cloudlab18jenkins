@@ -1,0 +1,2 @@
+configuration-as-code:1.47
+sonar:2.12
